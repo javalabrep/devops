@@ -1,1 +1,0 @@
-These Repository is used to store Meetup Documents
